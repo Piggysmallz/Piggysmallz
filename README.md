@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piggysmallz
-- 👀 I’m interested in data analytics and completing my MSBA.
-- 🌱 I’m currently learning R and Python.
+- 👀 I’m interested in the utilzation of business data.
+- 🌱 I’m currently working with Python, SQL, and various BI Tools.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me....... https://aboutclay.carrd.co/
 
