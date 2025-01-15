@@ -2,7 +2,6 @@
 - 👀 I’m interested in the utilzation of business data.
 - 🌱 I’m currently working with Python, SQL, and various BI Tools.
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me....... https://aboutclay.carrd.co/
 
 <!---
 Piggysmallz/Piggysmallz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
