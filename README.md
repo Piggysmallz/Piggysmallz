@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piggysmallz
 - 👀 I’m interested in the utilzation of business data.
-- 🌱 I’m currently working with Python, SQL, and various BI Tools.
+- 🌱 I’m currently working with Python, SQL, and BI Tools.
 - 💞️ I’m looking to collaborate on projects
 
 <!---
